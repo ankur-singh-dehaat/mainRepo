@@ -1,0 +1,3 @@
+[submodule "subModulerepo"]
+	path = subModulerepo
+	url = git@github.com:ankur-singh-dehaat/subModulerepo.git
